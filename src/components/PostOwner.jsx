@@ -1,3 +1,4 @@
+import React from "react";
 export const PostOwner = ({ name, id, status, likeNum }) => {
   return (
     <div className="vstack gap-3">
